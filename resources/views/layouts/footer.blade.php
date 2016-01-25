@@ -1,0 +1,1 @@
+<div class="well well-sm">&copy; Kameliya Tincheva 2016</div>
